@@ -1,8 +1,8 @@
 export default {
 	methods: {
 		removerow(index) {
-			Vue.delete(this.data, index)
-			//this.rows.splice(index, 1);
+			// Vue.delete(this.data, index)
+			this.data.splice(index, 1);
 		},
 		movedownrow(index) {
 			const newindex = index + 1
