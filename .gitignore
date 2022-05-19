@@ -1,0 +1,39 @@
+# Created by https://www.toptal.com/developers/gitignore/api/vuejs,visualstudiocode,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=vuejs,visualstudiocode,macos
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+dist-ssr
+*.local
+
+# End of https://www.toptal.com/developers/gitignore/api/vuejs,visualstudiocode,macos

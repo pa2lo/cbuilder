@@ -1,0 +1,173 @@
+@font-face {
+  font-family: 'mailbuilder';
+  src:
+    url('fonts/mailbuilder.ttf?n4zwrq') format('truetype'),
+    url('fonts/mailbuilder.woff?n4zwrq') format('woff'),
+    url('fonts/mailbuilder.svg?n4zwrq#mailbuilder') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icco {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'mailbuilder' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icco-fa-rss:before {
+  content: "\e928";
+}
+.icco-fa-pinterest:before {
+  content: "\e929";
+}
+.icco-fa-twitter:before {
+  content: "\e92a";
+}
+.icco-fa-youtube:before {
+  content: "\e92b";
+}
+.icco-fa-linkedin:before {
+  content: "\e92c";
+}
+.icco-fa-instagram:before {
+  content: "\e92d";
+}
+.icco-fa-facebook:before {
+  content: "\e92e";
+}
+.icco-up:before {
+  content: "\e905";
+}
+.icco-down:before {
+  content: "\e907";
+}
+.icco-download:before {
+  content: "\e906";
+}
+.icco-upload:before {
+  content: "\e903";
+}
+.icco-save:before {
+  content: "\e904";
+}
+.icco-copy:before {
+  content: "\e901";
+}
+.icco-x-circle:before {
+  content: "\e902";
+}
+.icco-x:before {
+  content: "\e930";
+}
+.icco-trash:before {
+  content: "\e900";
+}
+.icco-move:before {
+  content: "\e908";
+}
+.icco-align-justify:before {
+  content: "\e90e";
+}
+.icco-align-center:before {
+  content: "\e90f";
+}
+.icco-align-left:before {
+  content: "\e910";
+}
+.icco-align-right:before {
+  content: "\e911";
+}
+.icco-edit:before {
+  content: "\e90b";
+}
+.icco-edit2:before {
+  content: "\e90c";
+}
+.icco-edit3:before {
+  content: "\e90d";
+}
+.icco-smartphone:before {
+  content: "\e909";
+}
+.icco-monitor:before {
+  content: "\e90a";
+}
+.icco-link2:before {
+  content: "\e913";
+}
+.icco-external-link:before {
+  content: "\e914";
+}
+.icco-link:before {
+  content: "\e915";
+}
+.icco-settings:before {
+  content: "\e917";
+}
+.icco-sliders:before {
+  content: "\e916";
+}
+.icco-plus-circle:before {
+  content: "\e91b";
+}
+.icco-plus:before {
+  content: "\e91d";
+}
+.icco-folder-plus:before {
+  content: "\e918";
+}
+.icco-folder:before {
+  content: "\e919";
+}
+.icco-code:before {
+  content: "\e91a";
+}
+.icco-info:before {
+  content: "\e91f";
+}
+.icco-help-circle:before {
+  content: "\e91c";
+}
+.icco-alert-circle:before {
+  content: "\e91e";
+}
+.icco-check-circle:before {
+  content: "\e921";
+}
+.icco-check:before {
+  content: "\e924";
+}
+.icco-paperclip:before {
+  content: "\e920";
+}
+.icco-send:before {
+  content: "\e922";
+}
+.icco-mail:before {
+  content: "\e923";
+}
+.icco-more-vertical:before {
+  content: "\e912";
+}
+.icco-rotate-cw:before {
+  content: "\e925";
+}
+.icco-rotate-ccw:before {
+  content: "\e926";
+}
+.icco-eye:before {
+  content: "\e92f";
+}
+.icco-more-horizontal:before {
+  content: "\e927";
+}
